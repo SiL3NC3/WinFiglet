@@ -2,7 +2,7 @@
 
 # WinFiglet
 
-A tool to easily create ASCII Art from text phrases, shipped with 566 FLF-Fonts for your pleasure.
+A tool to easily create ASCII Art from text phrases, shipped with 500+ FLF-Fonts for your pleasure.
 
 Just fire it up and beautify your Readme files and CLI tools with nice logos made with ASCII-Art.
 
