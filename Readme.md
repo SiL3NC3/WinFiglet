@@ -1,4 +1,4 @@
-![image]([https://user-images.githubusercontent.com/694970/156938629-9d0bb3b4-bd23-4fda-84b4-df909e410f28.png](https://raw.githubusercontent.com/SiL3NC3/WinFiglet/master/Images/Screenshot.jpg?token=GHSAT0AAAAAABZJT66YGWPLCJZHECDTQT24Y23WN2Q))
+![image](https://github.com/SiL3NC3/WinFiglet/raw/master/Images/Screenshot.jpg)
 
 # WinFiglet
 A tool to easily create ASCII Art from text phrases, shipped with 566 FLF-Fonts for your pleasure.
